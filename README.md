@@ -3,14 +3,14 @@
 
 ## tecnologías que he usado:
 
-# Javascript
-# React
-# HTML
-# CSS
-# Python
-# Flask
-# Tailwind
-# PHP
+- Javascript
+- React
+- HTML
+- CSS
+- Python
+- Flask
+- Tailwind
+- PHP
 
 <!--
 **Nelson1411/Nelson1411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
